@@ -3,6 +3,6 @@
 ### 안녕하세요! 도전하는 개발자 김채연입니다.🍃
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kchaeys2&layout=compact)](https://github.com/kchaeys2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kchaeys2&layout=compact&count-private=true)](https://github.com/kchaeys2/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchaeys2&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchaeys2&show_icons=true&theme=radical&count-private=true)
