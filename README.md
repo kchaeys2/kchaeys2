@@ -4,7 +4,12 @@
   
   <br/>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchaeys2&show_icons=true&theme=buefy&count-private=true)
+<img src="https://github.com/kchaeys2/kchaeys2/assets/106591445/cff9a3a7-04c3-4886-8acc-4d259a1751ef" width= 300 height=300/>
+
+<br/>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchaeys2&show_icons=true&theme=buefy&count-private=true&hide_border=true)
+
 
   ### STATCKS 🐈
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
