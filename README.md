@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Hi!, I`m CHAEYEON KIM 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=200&section=header&reversal=true&text=chaeyeon`s%20GITHUB&fontSize=50" />
   
   <br/>
   
