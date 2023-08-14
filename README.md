@@ -28,3 +28,7 @@
 ## Github Profile 🍀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchaeys2&show_icons=true&theme=buefy&count-private=true&hide_border=true)
 
+## MY LOG 💚
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kchaeys2)](https://github.com/eungyeole/velog-readme-stats)
+<br/>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kchaeys2)](https://velog.io/@kchaeys2) 
