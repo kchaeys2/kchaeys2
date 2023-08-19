@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
@@ -32,3 +31,8 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kchaeys2)](https://velog.io/@kchaeys2)
 <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kchaeys2)](https://velog.io/@kchaeys2) 
+
+
+
+<!--<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">-->
+
