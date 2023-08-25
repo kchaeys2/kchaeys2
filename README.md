@@ -33,6 +33,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kchaeys2)](https://velog.io/@kchaeys2) 
 
 
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kchaeys2)](https://solved.ac/profile/kchaeys2)-->
 
 <!--<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">-->
 
