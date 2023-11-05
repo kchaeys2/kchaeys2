@@ -9,6 +9,7 @@
 - 💻 2023/01 ~ 2023/02 : [팀프로젝트 i ](https://github.com/kchaeys2/umc_I)
 - 💻 2023/03 ~ 2023/11 : [졸업프로젝트](https://github.com/kchaeys2/ViewMe_Python)
 - 💻 2023/07 ~ 2023/08 : [팀프로젝트 mu:necting](https://github.com/Mu-necting/Mu-necting_Server)
+- 💻 2023/09 ~ : 인턴
 <br/>
 
 ## STATCKS 🐈
