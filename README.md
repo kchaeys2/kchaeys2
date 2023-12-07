@@ -9,7 +9,7 @@
 - 💻 2023/01 ~ 2023/02 : [팀프로젝트 i ](https://github.com/kchaeys2/umc_I)
 - 💻 2023/03 ~ 2023/11 : [졸업프로젝트](https://github.com/kchaeys2/ViewMe_Python)
 - 💻 2023/07 ~ 2023/08 : [팀프로젝트 mu:necting](https://github.com/Mu-necting/Mu-necting_Server)
-- 💻 2023/09 ~ : 인턴
+- 💻 2023/09 ~ 2023/11 : 인턴
 <br/>
 
 ## STATCKS 🐈
@@ -27,13 +27,8 @@
 ## Github Profile 🍀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchaeys2&show_icons=true&theme=buefy&count-private=true&hide_border=true)
 
-## MY LogDiary 💚
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kchaeys2)](https://velog.io/@kchaeys2)
-<br/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kchaeys2)](https://velog.io/@kchaeys2) 
-
-
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kchaeys2)](https://solved.ac/profile/kchaeys2)-->
+## Algorithm 💚
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kchaeys2)](https://solved.ac/profile/kchaeys2)
 
 <!--<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">-->
 
