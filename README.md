@@ -6,10 +6,10 @@
   
 ## TIMELINE
 - 🎓 2020/03 ~ : 덕성여자대학교 IT미디어공학전공 재학
-- 💻 2023/01 ~ 2023/02 : [팀프로젝트 i ](https://github.com/kchaeys2/umc_I)
-- 💻 2023/03 ~ 2023/11 : [졸업프로젝트](https://github.com/kchaeys2/ViewMe_Python)
+- 💻 2023/01 ~ 2023/02 : [팀프로젝트 i](https://github.com/kchaeys2/umc_I)
+- 💻 2023/03 ~ 2023/11 : [공모전 수상 프로젝트](https://github.com/NoNameGP/Python_Repo)
 - 💻 2023/07 ~ 2023/08 : [팀프로젝트 mu:necting](https://github.com/Mu-necting/Mu-necting_Server)
-- 💻 2023/09 ~ 2023/11 : 인턴
+- 💻 2023/09 ~ 2023/11 : 이투마스 인턴
 <br/>
 
 ## STATCKS 🐈
